@@ -84,9 +84,9 @@ This project is licensed under the **MIT License**.
 ---
 
 ## 👨‍💻 Author
-- **Your Name**  
-- 📧 your.email@example.com  
-- 🌐 [GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourname)
+- **Yash Vardhan Giri**  
+- 📧 yashgiri803@gmail.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/yash-giri-987072326/)
 
 ---
 
